@@ -61,7 +61,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\PlayerController.cs" />
+    <Compile Include="Assets\PowerUpBox.cs" />
+    <Compile Include="Assets\LoopingPlatform.cs" />
+    <Compile Include="Assets\scale.cs" />
     <Compile Include="Assets\MoveLeft.cs" />
+    <Compile Include="Assets\Patrol.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
